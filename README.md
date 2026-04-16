@@ -1,3 +1,3 @@
 # my-first-repository
-this is my first project of github
+this is my first project of github\n
 author safwaan nakhuda
